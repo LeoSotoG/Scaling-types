@@ -12,7 +12,8 @@ Escalar los datos es fundamental en el preprocesamiento de datos para el anális
 * **Interpretación del modelo**: En algunos modelos, como la regresión lineal, el escalado de datos puede facilitar la interpretación de los coeficientes al eliminar la influencia de la escala de las características en sus valores.
 
 Antes de escalar:
-
+![imagen_esc1](https://github.com/LeoSotoG/LeoSotoG/blob/main/inicio1.png?raw=true)
 
 Despues de aplicar los tipos de escalamiento:
 
+![imagen_esc2](https://github.com/LeoSotoG/LeoSotoG/blob/main/inicio1.png?raw=true)
